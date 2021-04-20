@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Metrics](https://metrics.lecoq.io/idanbenyair?template=classic&config.timezone=America%2FNew_York)
